@@ -42,12 +42,6 @@ vendor/realme/RMX3761/
 - Android Version: 13
 - Extraction Method: Non-root method using payload dumper
 
-### Verified Compatibility
-- Android 13 (Stock)
-- Android 14 (Custom ROM)
-
-## Implementation Details
-
 ### Hardware Support
 - Full Camera Features
 - Audio Processing
